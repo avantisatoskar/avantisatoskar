@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Scorekeeper Game](<div data-snack-id="@avanti.satoskar/scorekeeper" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div> <script async src="https://snack.expo.dev/embed.js"></script>)
 
-- 👨‍💻 All of my projects are available at [https://github.com/avantisatoskar/projects.git](https://github.com/avantisatoskar/projects.git)
+- 👨‍💻 All of my projects are available at [[https://github.com/avantisatoskar/projects.git](https://github.com/avantisatoskar/projects.git](https://github.com/avantisatoskar?tab=repositories))
 
 - 📝 I regularly write articles on [n/a](n/a)
 
